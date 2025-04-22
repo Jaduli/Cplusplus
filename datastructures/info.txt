@@ -1,0 +1,2 @@
+A datastructure class made for a school project. Bites have a name and a coordinate and can be located on
+a contour. Contours can be thought of as "hills" with a height and a possible parent contour and subcontours.

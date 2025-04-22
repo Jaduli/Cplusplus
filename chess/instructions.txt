@@ -1,0 +1,10 @@
+Instructions:
+Click on a piece that you want to move. Only pieces that are of the color
+in turn and that can be moved are allowed to be clicked. Valid locations
+to move to are marked with a red border. Game is won by taking the
+opponent's king. Game can be reset with the reset button and the
+window can be closed with the quit button. 
+
+Creator of the program
+Name: Jade Pitkänen
+E-Mail: jade.pitkanen@tuni.fi
